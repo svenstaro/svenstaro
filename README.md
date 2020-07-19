@@ -6,7 +6,7 @@
 - I quite like Rust. :crab:
 - I do graphics and high-performance stuff. :racing_car:
 - I like automation and when things just maintain themselves. Sadly though, they rarely do in practice. :robot:
-- I am a developer and devops in [Arch Linux](https://archlinux.org) where I also maintain [a ton](https://www.archlinux.org/packages/?sort=&q=&maintainer=svenstaro) of packages! :penguin:
+- I am a [developer](https://www.archlinux.org/people/developers/#svenstaro) and [devops](https://gitlab.archlinux.org/svenstaro) in [Arch Linux](https://archlinux.org) where I also maintain [a ton](https://www.archlinux.org/packages/?sort=&q=&maintainer=svenstaro) of packages! :penguin:
 
 Also check out [svenstaro.org](https://svenstaro.org).
 
